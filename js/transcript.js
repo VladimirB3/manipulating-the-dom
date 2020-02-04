@@ -104,4 +104,3 @@ for (var i = 0; i < lis.length; i++) {
 ul.find('li').removeClass('active').addClass('inactive').css('background-color', 'pink');
 
 // without having to write big for loops
-© 2020 GitHub, Inc.
